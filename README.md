@@ -1,5 +1,5 @@
 
-# Obesity Analysis and Visualization
+# Obesity Analysis and Prediction
 
 Exploratory Data Analysis (EDA) and machine learning on obesity data using Python.
 
